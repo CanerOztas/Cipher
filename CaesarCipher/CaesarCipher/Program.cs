@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Text;
 
-class SezarPro
+class Sezar
 {
     // Türkçe alfabenin hem küçük hem büyük halini tanımlıyoruz
     static readonly string alfabeKucuk = "abcçdefgğhıijklmnoöprsştuüvyz";
@@ -76,4 +76,5 @@ class SezarPro
         }
         return new string(buffer);
     }
+
 }
