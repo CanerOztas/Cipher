@@ -1,0 +1,14 @@
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\obj\Debug\net7.0\VigenereCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\obj\Debug\net7.0\VigenereCipher.AssemblyInfoInputs.cache
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\obj\Debug\net7.0\VigenereCipher.AssemblyInfo.cs
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\obj\Debug\net7.0\VigenereCipher.csproj.CoreCompileInputs.cache
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\bin\Debug\net7.0\VigenereCipher.exe
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\bin\Debug\net7.0\VigenereCipher.deps.json
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\bin\Debug\net7.0\VigenereCipher.runtimeconfig.json
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\bin\Debug\net7.0\VigenereCipher.dll
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\bin\Debug\net7.0\VigenereCipher.pdb
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\obj\Debug\net7.0\VigenereCipher.dll
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\obj\Debug\net7.0\refint\VigenereCipher.dll
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\obj\Debug\net7.0\VigenereCipher.pdb
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\obj\Debug\net7.0\VigenereCipher.genruntimeconfig.cache
+C:\Users\King 44\source\repos\VigenereCipher\VigenereCipher\obj\Debug\net7.0\ref\VigenereCipher.dll
